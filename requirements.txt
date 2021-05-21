@@ -1,7 +1,7 @@
 -e git+git@github.com:saulzar/pytorch_tools.git@egg=pytorch_tools
 opencv-python
 matplotlib
-tensorflow==1.14
+tensorflow==2.5.0
 xmltodict
 websockets
 natsort
